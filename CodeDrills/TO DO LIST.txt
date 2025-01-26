@@ -1,0 +1,95 @@
+-> Longest Strictly Increasing Path: https://codedrills.io/problems/longest-strictly-increasing-path
+	graph, dfs, dp
+
+-> Primes on a Tree: https://codedrills.io/problems/primes-on-a-tree
+	tree, dp
+
+-> isosceles triangle: https://codedrills.io/problems/isosceles-triangles
+	dp
+
+-> longest d subsequence: https://codedrills.io/problems/longest-d-subsequence
+	dp
+
+-> best cover of array: https://codedrills.io/problems/best-cover-of-array
+	dp
+
+-> remove nodes: https://codedrills.io/problems/remove-nodes
+	graph, bfs, dfs, sorting, greedy
+
+-> substring with atmost x unique characters: https://codedrills.io/problems/substrings-with-atmost-x-unique-characters
+	array, hashmap, hashtable, sliding window
+
+-> magical number: https://codedrills.io/problems/magical-numbers
+	backtracking, recursion
+
+-> three sum: https://codedrills.io/problems/three-sum
+	array, 2pointer
+
+-> median of 2 sorted array: https://codedrills.io/problems/median-of-two-sorted-arrays
+	binary search
+
+-> chess: https://codedrills.io/problems/chess
+	backtracking
+
+-> height rearrangement: https://codedrills.io/problems/height-rearrangement
+	segment tree, sorting, binary search, greedy
+
+-> no. of valid string: https://codedrills.io/problems/number-of-valid-strings
+	dp
+
+-> factor grps: https://codedrills.io/problems/factor-groups
+	dsu, sieve of Eratosthenes, graph
+
+-> consecutive jumps: https://codedrills.io/problems/consecutive-jumps
+	dp, array
+
+-> First missing positive value: https://codedrills.io/problems/first-missing-positive-value
+	adhoc
+
+-> alien aphabets order: https://codedrills.io/problems/alien-alphabets-order
+	graph
+
+-> multiple-words-search: https://codedrills.io/problems/multiple-words-search
+	graph, trie
+
+-> longest-consecutive-sequence: https://codedrills.io/problems/longest-consecutive-sequence
+	hash map
+
+-> split-array-in-groups: https://codedrills.io/problems/split-array-in-groups
+	greedy, bs
+
+-> supersequence-of-arrays: https://codedrills.io/problems/supersequence-of-arrays
+	graph, topological sort
+
+-> maximal-rectangle-area: https://codedrills.io/problems/maximal-rectangle-area
+	adhoc, dp
+
+-> minimum-jumps: https://codedrills.io/problems/minimum-jumps
+	dp, greedy, bfs
+
+-> maximum-points: https://codedrills.io/problems/maximum-points
+	dp, greedy
+
+-> coins-in-the-path: https://codedrills.io/problems/coins-in-the-path
+	dp
+
+-> clean-the-plates: https://codedrills.io/problems/clean-the-plates
+	dp
+
+-> count-of-pairs-with-xor-in-range: https://codedrills.io/problems/count-of-pairs-with-xor-in-range
+	trie
+
+-> minimizing-largest-sum: https://codedrills.io/problems/minimizing-largest-sum
+	dp, bs
+
+-> trapping-2d-rainwater: https://codedrills.io/problems/trapping-2d-rainwater
+	heap, bfs
+
+-> right-side-smaller-temperatures: https://codedrills.io/problems/right-side-smaller-temperatures
+	bs, d&c, segment tree
+
+-> chocolate-obsession: https://codedrills.io/problems/chocolate-obsession
+	dp
+
+-> egg-drop: https://codedrills.io/problems/egg-drop
+	dp, bs
